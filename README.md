@@ -5,8 +5,6 @@ Bu proje kampında ASP.Net Core 5.0 ile Entity Framework Core, N Tier Architecht
 
 Proje kampı YouTube'da 150 dersten oluşmakta ve eğitmen Murat Yücedağ olmaktadır, oynatma listesine <a href="https://www.youtube.com/playlist?list=PLKnjBHu2xXNNkinaVhPqPZG0ubaLN63ci" target="_blank">buradan</a> ulaşabilirsiniz.
 
-Proje görsellerini repository üst dizinde bulunan resim dosyalarıyla inceleyebilirsiniz.
-
 <hr>
 Projeye başlangıç tarihi: 03.09.2021 Cuma
 <br>
